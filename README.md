@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hai Pham</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RgutegYIHk2Nhxj4m5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/GitHub-transparent-RgutegYIHk2Nhxj4m5">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamhaicnttk21&label=Profile%20views&color=0e75b6&style=flat" alt="phamhaicnttk21" /> </p>
 
