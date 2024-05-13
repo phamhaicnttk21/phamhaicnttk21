@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hai Pham</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
+[cute](https://github.com/phamhaicnttk21/phamhaicnttk21/assets/95271700/d5d92202-0da6-488c-852f-dd0fb9470535)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamhaicnttk21&label=Profile%20views&color=0e75b6&style=flat" alt="phamhaicnttk21" /> </p>
